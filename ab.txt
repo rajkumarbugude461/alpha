@@ -1,1 +1,3 @@
 it's a new file to be sent into  the github from git bash
+
+editing this file to check wroking of pull command using "git pull"
